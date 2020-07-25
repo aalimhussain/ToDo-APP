@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(134, 183, 206);
+    text-align: center;  
+}
+li{
+    background-color: white;
+}
+.btn{
+    background-color: rgb(18, 132, 207);
+    margin-left: 50px;
+    border-radius: 2px;
+}
+.btn1{
+    background-color: rgb(11, 80, 207);
+    margin-left: 10px;
+    border-radius: 2px;
+}
+h1{
+    text-align: center;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    font-size: 0.95em;
+    text-align: center;
+  }
